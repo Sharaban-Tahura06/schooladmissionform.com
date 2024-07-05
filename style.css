@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+   font-size: large;
+   font-weight: bold;
+   text-decoration: solid;
+   text-decoration-line: underline;
+}
+body{
+    text-align: left;
+    text-decoration: solid;
+    color: black;
+    background-color: rgb(241, 241, 241);}
+    h3{
+        color: black;
+        text-decoration-line: underline;
+    }
+    
+    
